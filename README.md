@@ -17,9 +17,9 @@ Uma agência de banco de sangue forneceu uma lista de candidatos a doadores e pr
 	<strong>Usuário</strong>: admin@admin.com<br>
 	<strong>Senha</strong>: admin<br><br>
 - <strong>DADOS PARA CONEXÃO DO BANCO DE DADOS</strong> <br>
-	url: localhost:3306/sispedido?createDatabaseIfNotExist=true&useSSL=false<br>
-	username: root<br>
-	password:<br><br>
+	<strong>url:</strong> localhost:3306/sispedido?createDatabaseIfNotExist=true&useSSL=false<br>
+	<strong>username:</strong> root<br>
+	<strong>password:</strong><br><br>
 - <strong>OS DADOS DE CONEXÃO PODEM SER ALTERADOS NO ARQUIVO ‘src\main\resources\application.properties’</strong><br>
 
 ---------------------------------------------------------------------------------------------------------------------------
